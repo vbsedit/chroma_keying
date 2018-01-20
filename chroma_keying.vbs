@@ -5,6 +5,8 @@ img.Load "owl.png"
 tola = 20
 tolb = tola*1.3
 
+'test de changement
+
 Dim r_key
 Dim g_key
 Dim b_key
