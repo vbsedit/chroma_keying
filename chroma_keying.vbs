@@ -2,8 +2,8 @@
 Set img=CreateObject("vbsedit.imageprocessor")
 img.Load "owl.png"
 
-tola = 15
-tolb = 30
+tola = 20
+tolb = tola*1.3
 
 Dim r_key
 Dim g_key
